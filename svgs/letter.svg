@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.37014941"
-     inkscape:cx="544.37477"
-     inkscape:cy="930.70525"
+     inkscape:zoom="0.18507471"
+     inkscape:cx="940.16089"
+     inkscape:cy="478.18528"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -46,11 +46,88 @@
        x="0"
        y="0" />
     <rect
-       style="fill:#3465a4;stroke:none;stroke-width:7.55904;stroke-linecap:square;paint-order:fill markers stroke"
+       style="fill:#edd400;stroke:none;stroke-width:7.55904;stroke-linecap:square;paint-order:fill markers stroke"
        id="rect2"
        width="1220"
        height="1220"
        x="70"
        y="70" />
+    <rect
+       style="fill:#eeeeec;stroke:#000000;stroke-width:9.99999;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2-7"
+       width="912.01624"
+       height="577.01642"
+       x="205.76595"
+       y="397.26614" />
+    <g
+       id="g4"
+       transform="translate(21.612894,-1.3508059)">
+      <rect
+         style="fill:#d3d7cf;stroke:#000000;stroke-width:10;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect3"
+         width="104.01205"
+         height="117.52011"
+         x="932.05603"
+         y="459.27399" />
+      <rect
+         style="fill:#c17d11;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect4"
+         width="18.23588"
+         height="44.576595"
+         x="953.87256"
+         y="528.56073" />
+      <ellipse
+         style="fill:#73d216;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path3"
+         cx="960.52063"
+         cy="535.44885"
+         rx="25.32761"
+         ry="18.014059" />
+      <rect
+         style="fill:#c17d11;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect4-3"
+         width="18.23588"
+         height="36.902058"
+         x="999.53827"
+         y="536.19525" />
+      <ellipse
+         style="fill:#73d216;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path3-0"
+         cx="1009.0518"
+         cy="530.06812"
+         rx="25.32761"
+         ry="16.494102" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Press Start K';-inkscape-font-specification:'Press Start K';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="943.70203"
+         y="509.10242"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="943.70203"
+           y="509.10242">10</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Press Start K';-inkscape-font-specification:'Press Start K';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="651.08844"
+       y="749.92908"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="651.08844"
+         y="749.92908">WEGMANN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.9006px;line-height:1.25;font-family:'Press Start K';-inkscape-font-specification:'Press Start K';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="268.09253"
+       y="481.23834"
+       id="text5-5"><tspan
+         sodipodi:role="line"
+         id="tspan5-9"
+         x="268.09253"
+         y="481.23834"
+         style="stroke-width:1">SCHICK</tspan></text>
   </g>
 </svg>
