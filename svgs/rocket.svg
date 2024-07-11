@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="rocket.svg"
-   inkscape:export-filename="..\export\rocketPolariod.png"
+   inkscape:export-filename="..\fadeproject\pngs\text\rocket.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,7 +28,7 @@
      inkscape:document-units="px"
      inkscape:zoom="0.26173516"
      inkscape:cx="808.06874"
-     inkscape:cy="945.61236"
+     inkscape:cy="945.61235"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -227,5 +227,16 @@
        style="fill:#babdb6;stroke-width:10;stroke-linecap:square;paint-order:fill markers stroke;stroke:#000000;stroke-opacity:1"
        d="m 671.32969,965.52968 -35.88036,-125.36287 -72.03935,150.45784 -8.44435,144.29815 56.91613,40.5938 z"
        sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:155.363px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;letter-spacing:0px;word-spacing:0px;stroke-width:0.999999"
+       x="81.252754"
+       y="1511.1567"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="81.252754"
+         y="1511.1567"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:155.363px;font-family:Caladea;-inkscape-font-specification:'Caladea, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999">SCIENCE EXHIBIT</tspan></text>
   </g>
 </svg>

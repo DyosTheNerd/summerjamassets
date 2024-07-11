@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="stolen.svg"
+   inkscape:export-filename="..\fadeproject\pngs\text\stolen.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.37014941"
-     inkscape:cx="533.56832"
-     inkscape:cy="803.7295"
+     inkscape:cx="487.64092"
+     inkscape:cy="900.98752"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -176,5 +179,21 @@
          x="568.68921"
          y="799.55585"
          style="stroke-width:1;fill:#cc0000">Sorry</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:155.363px;line-height:1.25;font-family:NSimSun;-inkscape-font-specification:NSimSun;letter-spacing:0px;word-spacing:0px;stroke-width:0.999999"
+       x="37.607967"
+       y="1432.9008"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="37.607967"
+         y="1432.9008"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:155.363px;font-family:Caladea;-inkscape-font-specification:'Caladea, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999">DISAPPOINTMENT</tspan><tspan
+         sodipodi:role="line"
+         x="37.607967"
+         y="1639.7472"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:155.363px;font-family:Caladea;-inkscape-font-specification:'Caladea, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+         id="tspan1">@ LOUVRE :(</tspan></text>
   </g>
 </svg>
